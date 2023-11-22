@@ -15,7 +15,7 @@ Speech Emotion Recognition (SER) is the task of identifying the emotional state 
 - Evaluation and comparison with VGG-16, LeNet-5, AlexNet, and Bidirectional LSTM.
 
 ## Model Architecture
-![Alt Text](./architecture.png)
+![architecture](./architecture.png)
 
 ## Dataset
 We have collected audio recordings from four reputable and varied sources for this compilation of
